@@ -14,3 +14,8 @@
 #### [3. Tachyons](http://tachyons.io/)
 ![Tachyons Logo](https://cdn-images-1.medium.com/max/1600/1*Pyq6CYR4CMaRV0WO4MaA0w.png)
 - Хорошая типографика
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
