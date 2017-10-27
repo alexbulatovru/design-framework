@@ -1,6 +1,13 @@
 # design-framework
 ## Учебный фреймворк для быстрого прототипирования и верстки веб-приложений
-### Список фреймворков
+### Сводная таблица фреймворков
+
+Feature/Framework | Bootstrap | Zurb | Bulma | Bourbon
+------------ | ------------- | ------------- | ------------- | -------------
+SASS | + | + | - | +
+SASS | + | + | - | +
+SASS | + | + | - | +
+SASS | + | + | - | +
 
 #### [1. Bulma](http://bulma.io/)
 ![Bulma Logo](http://bulma.io/images/bulma-logo.png)
@@ -14,10 +21,3 @@
 #### [3. Tachyons](http://tachyons.io/)
 ![Tachyons Logo](https://cdn-images-1.medium.com/max/1600/1*Pyq6CYR4CMaRV0WO4MaA0w.png)
 - Хорошая типографика
-
-Feature/Framework | Bootstrap | Zurb | Bulma | Bourbon
------------- | ------------- | ------------- | ------------- | -------------
-SASS | + | + | - | +
-SASS | + | + | - | +
-SASS | + | + | - | +
-SASS | + | + | - | +
