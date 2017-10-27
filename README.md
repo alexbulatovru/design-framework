@@ -4,5 +4,7 @@
 
 Feature/Framework | [Bootstrap](http://getbootstrap.com/) | [Zurb](https://foundation.zurb.com/) | [Bulma](http://bulma.io/) | [Bourbon](http://bourbon.io/)
 ------------ | ------------- | ------------- | ------------- | -------------
-**Email support** | ![cross](img/cross.png) | ![tick](img/tick.png) | ? | ?
-**SASS** | ? | ? | ? | ?
+**Email support** | ? | ![tick](img/tick.png) | ? | ?
+**SASS** | ? | ![tick](img/tick.png) | ? | ?
+**UI Page** | ![tick](img/tick.png) | ![tick](img/tick.png) | ? | ?
+**Custom download** | ? | ![tick](img/tick.png) | ? | ?
