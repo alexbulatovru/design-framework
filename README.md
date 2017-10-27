@@ -4,10 +4,10 @@
 
 Feature/Framework | Bootstrap | Zurb | Bulma | Bourbon
 ------------ | ------------- | ------------- | ------------- | -------------
-SASS | + | + | - | +
-SASS | + | + | - | +
-SASS | + | + | - | +
-SASS | + | + | - | +
+SASS | [x] | [ ] | [x] | [x]
+SASS | [x] | [ ] | [x] | [x]
+SASS | [x] | [x] | [x] | [ ]
+SASS | [ ] | [x] | [x] | [x]
 
 #### [1. Bulma](http://bulma.io/)
 ![Bulma Logo](http://bulma.io/images/bulma-logo.png)
